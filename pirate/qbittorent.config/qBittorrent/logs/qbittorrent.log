@@ -1,0 +1,22 @@
+(N) 2022-11-27T22:51:14 - qBittorrent v4.4.5 started
+(N) 2022-11-27T22:51:14 - Using config directory: /config/qBittorrent
+(I) 2022-11-27T22:51:14 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-11-27T22:51:14 - Peer ID: -qB4450-
+(N) 2022-11-27T22:51:14 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-11-27T22:51:14 - DHT support [ON]
+(I) 2022-11-27T22:51:14 - Local Peer Discovery support [ON]
+(I) 2022-11-27T22:51:14 - PeX support [ON]
+(I) 2022-11-27T22:51:14 - Anonymous mode [OFF]
+(I) 2022-11-27T22:51:14 - Encryption support [ON]
+(W) 2022-11-27T22:51:15 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2022-11-27T22:51:16 - Using built-in Web UI.
+(W) 2022-11-27T22:51:16 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-11-27T22:51:16 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-11-27T22:51:16 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-11-27T22:51:16 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-11-27T22:51:16 - Successfully listening on IP: 172.22.0.2, port: TCP/6881
+(I) 2022-11-27T22:51:16 - Successfully listening on IP: 172.22.0.2, port: UTP/6881
+(I) 2022-11-27T22:51:16 - Detected external IP: 72.77.36.6
+(I) 2022-11-27T22:51:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Oct 31 21:27:56 2022.
+(I) 2022-11-27T22:51:17 - Successfully updated IP geolocation database.
+(I) 2022-11-27T23:10:17 - UPnP / NAT-PMP support [OFF]

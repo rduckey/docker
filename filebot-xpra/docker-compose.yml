@@ -1,0 +1,12 @@
+# docker-compose.yml
+version: '3.3'
+services:
+  filebot:
+    container_name: filebot-xpra
+    image: rednoah/filebot:xpra
+    restart: unless-stopped
+    volumes:
+      - ${HOME}/docker/filebot-xpra/data:/data
+      - ${HOME}/nfs/media:/plex-media
+    ports:
+      - 5454:5454
