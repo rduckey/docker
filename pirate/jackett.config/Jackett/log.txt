@@ -42,3 +42,946 @@
 2022-11-27 23:10:06.0253 Info Adding filter indexer ('type:private' indexer) ... 
 2022-11-27 23:10:06.0253 Info Adding filter indexer ('type:semi-public' indexer) ... 
 2022-11-27 23:10:07.4065 Info Jackett startup finished in 12.661 s 
+2022-11-27 23:37:35.1095 Info Starting Jackett v0.20.2291 
+2022-11-27 23:37:36.2235 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-27 23:37:36.2235 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-27 23:37:36.2235 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-27 23:37:36.2235 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-27 23:37:36.2235 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-27 23:37:36.2287 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-27 23:37:36.2287 Info App config/log directory: /config/Jackett 
+2022-11-27 23:37:36.2287 Info Using proxy: Disabled 
+2022-11-27 23:37:36.2287 Info Using FlareSolverr: No 
+2022-11-27 23:37:36.2401 Info Using HTTP Client: HttpWebClient2 
+2022-11-27 23:37:36.2498 Info Loading Native indexers ... 
+2022-11-27 23:37:36.5209 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-27 23:37:36.5287 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-27 23:37:39.4509 Info Loaded 496 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9 
+2022-11-27 23:37:39.4515 Info Loaded 573 indexers in total 
+2022-11-27 23:37:39.4515 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-27 23:37:39.4720 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-27 23:37:39.4720 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-27 23:37:39.4720 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-27 23:37:39.8381 Info Jackett startup finished in 6.142 s 
+2022-11-27 23:48:56.7823 Warn Request to Anidex failed with exception 'Challenge detected but FlareSolverr is not configured'. Retrying in 0.5s... (Attempt 1 of 2). 
+2022-11-27 23:48:57.3468 Warn Request to Anidex failed with exception 'Challenge detected but FlareSolverr is not configured'. Retrying in 1s... (Attempt 2 of 2). 
+2022-11-27 23:48:58.4210 Error FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 522
+   at Jackett.Common.Indexers.BaseWebIndexer.<>c__DisplayClass12_0.<<RequestWithCookiesAndRetryAsync>b__0>d.MoveNext() in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 499
+--- End of stack trace from previous location ---
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAndRetryAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 498
+   at Jackett.Common.Indexers.Anidex.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/Anidex.cs:line 188
+   at Jackett.Common.Indexers.Anidex.ApplyConfiguration(JToken configJson) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/Anidex.cs:line 147
+   at Jackett.Server.Controllers.IndexerApiController.UpdateConfig(ConfigItem[] config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 97
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 FlareSolverrSharp.Exceptions.FlareSolverrException: Challenge detected but FlareSolverr is not configured
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 522
+   at Jackett.Common.Indexers.BaseWebIndexer.<>c__DisplayClass12_0.<<RequestWithCookiesAndRetryAsync>b__0>d.MoveNext() in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 499
+--- End of stack trace from previous location ---
+   at Polly.Retry.AsyncRetryEngine.ImplementationAsync[TResult](Func`3 action, Context context, CancellationToken cancellationToken, ExceptionPredicates shouldRetryExceptionPredicates, ResultPredicates`1 shouldRetryResultPredicates, Func`5 onRetryAsync, Int32 permittedRetryCount, IEnumerable`1 sleepDurationsEnumerable, Func`4 sleepDurationProvider, Boolean continueOnCapturedContext)
+   at Polly.AsyncPolicy`1.ExecuteAsync(Func`3 action, Context context, CancellationToken cancellationToken, Boolean continueOnCapturedContext)
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAndRetryAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 498
+   at Jackett.Common.Indexers.Anidex.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/Anidex.cs:line 188
+   at Jackett.Common.Indexers.Anidex.ApplyConfiguration(JToken configJson) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/Anidex.cs:line 147
+   at Jackett.Server.Controllers.IndexerApiController.UpdateConfig(ConfigItem[] config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 97
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2022-11-27 23:54:09.7870 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-27 23:54:09.7881 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-27 23:54:09.7881 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-27 23:54:09.7881 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-27 23:54:10.2961 Info Restarting webhost due to configuration change 
+2022-11-27 23:54:10.2961 Info Restart of the web application host (not process) initiated 
+2022-11-27 23:54:10.3235 Info Jackett stopped 
+2022-11-27 23:54:10.3921 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-27 23:54:10.3921 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-27 23:54:10.3921 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-27 23:54:10.3921 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-27 23:54:10.3921 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-27 23:54:10.3921 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-27 23:54:10.3921 Info App config/log directory: /config/Jackett 
+2022-11-27 23:54:10.3921 Info Using proxy: Disabled 
+2022-11-27 23:54:10.3921 Info Using FlareSolverr: http://127.0.0.1:8191 
+2022-11-27 23:54:10.3921 Info Using HTTP Client: HttpWebClient2 
+2022-11-27 23:54:10.3921 Info Loading Native indexers ... 
+2022-11-27 23:54:10.4296 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-27 23:54:10.4296 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-27 23:54:12.8191 Info Loaded 496 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9 
+2022-11-27 23:54:12.8191 Info Loaded 573 indexers in total 
+2022-11-27 23:54:12.8191 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-27 23:54:12.8191 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-27 23:54:12.8191 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-27 23:54:12.8191 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-27 23:54:12.8737 Info Jackett startup finished in 999.183 s 
+2022-11-27 23:54:23.9890 Error Jackett.Common.IndexerException: Exception (1337x): Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at FlareSolverrSharp.Utilities.SemaphoreLocker.LockAsync[T](Func`1 worker)
+   at FlareSolverrSharp.Solvers.FlareSolverr.SendFlareSolverrRequest(HttpContent flareSolverrRequest)
+   at FlareSolverrSharp.Solvers.FlareSolverr.Solve(HttpRequestMessage request, String sessionId)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 522
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 Jackett.Common.IndexerException: Exception (1337x): Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at FlareSolverrSharp.Utilities.SemaphoreLocker.LockAsync[T](Func`1 worker)
+   at FlareSolverrSharp.Solvers.FlareSolverr.SendFlareSolverrRequest(HttpContent flareSolverrRequest)
+   at FlareSolverrSharp.Solvers.FlareSolverr.Solve(HttpRequestMessage request, String sessionId)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 522
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2022-11-27 23:54:25.0518 Info Test search in Isohunt2 => Found 75 releases 
+2022-11-27 23:54:25.2996 Info Test search in kickasstorrents.ws => Found 75 releases 
+2022-11-27 23:54:25.3811 Info Test search in LimeTorrents clone => Found 150 releases 
+2022-11-27 23:54:25.4056 Info Test search in ExtraTorrent.st => Found 90 releases 
+2022-11-27 23:54:25.8746 Info Test search in LimeTorrents => Found 150 releases 
+2022-11-27 23:54:26.7953 Info Test search in sukebei.nyaa.si => Found 75 releases 
+2022-11-27 23:54:28.0324 Info Test search in The Pirate Bay => Found 50 releases 
+2022-11-27 23:54:29.3880 Info Test search in YTS => Found 100 releases 
+2022-11-27 23:54:31.2174 Info Test search in Legit Torrents => Found 15 releases 
+2022-11-27 23:54:32.3750 Info Test search in kickasstorrents.to => Found 100 releases 
+2022-11-27 23:54:33.5386 Warn torrentapi.org returned Error 520 
+2022-11-27 23:54:33.5392 Info Test search in RARBG => Found 0 releases 
+2022-11-27 23:54:33.5392 Error System.Exception: Test search in RARBG => Found no results while trying to browse this tracker
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 316
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 System.Exception: Test search in RARBG => Found no results while trying to browse this tracker
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 316
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2022-11-27 23:54:35.4500 Info Test search in MovieTorrent => Found 36 releases 
+2022-11-27 23:55:14.8149 Error Jackett.Common.IndexerException: Exception (1337x): Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at FlareSolverrSharp.Utilities.SemaphoreLocker.LockAsync[T](Func`1 worker)
+   at FlareSolverrSharp.Solvers.FlareSolverr.SendFlareSolverrRequest(HttpContent flareSolverrRequest)
+   at FlareSolverrSharp.Solvers.FlareSolverr.Solve(HttpRequestMessage request, String sessionId)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 221
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 Jackett.Common.IndexerException: Exception (1337x): Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at FlareSolverrSharp.Utilities.SemaphoreLocker.LockAsync[T](Func`1 worker)
+   at FlareSolverrSharp.Solvers.FlareSolverr.SendFlareSolverrRequest(HttpContent flareSolverrRequest)
+   at FlareSolverrSharp.Solvers.FlareSolverr.Solve(HttpRequestMessage request, String sessionId)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 221
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2022-11-27 23:55:54.7195 Info Restarting webhost due to configuration change 
+2022-11-27 23:55:54.7195 Info Restart of the web application host (not process) initiated 
+2022-11-27 23:56:00.7213 Info Jackett stopped 
+2022-11-27 23:56:00.7520 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-27 23:56:00.7520 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-27 23:56:00.7520 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-27 23:56:00.7520 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-27 23:56:00.7520 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-27 23:56:00.7520 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-27 23:56:00.7520 Info App config/log directory: /config/Jackett 
+2022-11-27 23:56:00.7520 Info Using proxy: Disabled 
+2022-11-27 23:56:00.7520 Info Using FlareSolverr: http://192.168.50.4:8191 
+2022-11-27 23:56:00.7520 Info Using HTTP Client: HttpWebClient2 
+2022-11-27 23:56:00.7520 Info Loading Native indexers ... 
+2022-11-27 23:56:00.8018 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-27 23:56:00.8018 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-27 23:56:03.2146 Info Loaded 496 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9 
+2022-11-27 23:56:03.2146 Info Loaded 573 indexers in total 
+2022-11-27 23:56:03.2151 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-27 23:56:03.2151 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-27 23:56:03.2151 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-27 23:56:03.2151 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-27 23:56:03.2628 Info Jackett startup finished in 1109.572 s 
+2022-11-27 23:56:05.4648 Error Jackett.Common.IndexerException: Exception (nyaasi): A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 221
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 Jackett.Common.IndexerException: Exception (nyaasi): A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.
+ ---> System.TimeoutException: A task was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 221
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2022-11-27 23:56:26.0095 Info Test search in RARBG => Found 100 releases 
+2022-11-27 23:57:10.5555 Error Jackett.Common.IndexerException: Exception (1337x): Exception: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 55 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Exception: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 55 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at FlareSolverrSharp.Utilities.SemaphoreLocker.LockAsync[T](Func`1 worker)
+   at FlareSolverrSharp.Solvers.FlareSolverr.SendFlareSolverrRequest(HttpContent flareSolverrRequest)
+   at FlareSolverrSharp.Solvers.FlareSolverr.Solve(HttpRequestMessage request, String sessionId)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 221
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 Jackett.Common.IndexerException: Exception (1337x): Exception: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 55 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Exception: System.Threading.Tasks.TaskCanceledException: The request was canceled due to the configured HttpClient.Timeout of 55 seconds elapsing.
+ ---> System.TimeoutException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.InitialFillAsync(Boolean async)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at FlareSolverrSharp.Utilities.SemaphoreLocker.LockAsync[T](Func`1 worker)
+   at FlareSolverrSharp.Solvers.FlareSolverr.SendFlareSolverrRequest(HttpContent flareSolverrRequest)
+   at FlareSolverrSharp.Solvers.FlareSolverr.Solve(HttpRequestMessage request, String sessionId)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 221
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 526
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2022-11-28 00:07:36.3337 Info Starting Jackett v0.20.2291 
+2022-11-28 00:07:42.5665 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-28 00:07:42.5680 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-28 00:07:42.5680 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-28 00:07:42.6201 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-28 00:07:42.6754 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-28 00:07:42.6754 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-28 00:07:42.6754 Info App config/log directory: /config/Jackett 
+2022-11-28 00:07:42.6754 Info Using proxy: Disabled 
+2022-11-28 00:07:42.6792 Info Using FlareSolverr: http://192.168.50.4:8191 
+2022-11-28 00:07:42.6890 Info Using HTTP Client: HttpWebClient2 
+2022-11-28 00:07:42.6989 Info Loading Native indexers ... 
+2022-11-28 00:07:43.0617 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-28 00:07:43.1020 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-28 00:07:47.9523 Info Loaded 496 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9 
+2022-11-28 00:07:47.9523 Info Loaded 573 indexers in total 
+2022-11-28 00:07:47.9523 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-28 00:07:47.9674 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-28 00:07:47.9674 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-28 00:07:47.9674 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-28 00:07:49.6606 Info Jackett startup finished in 22.655 s 
+2022-11-28 01:07:48.0187 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2022-11-28 01:07:52.8955 Info New release found. Current version: v0.20.2291 New version: v0.20.2297 
+2022-11-28 01:07:52.8955 Info Downloading release v0.20.2297 It could take a while... 
+2022-11-28 01:08:16.6253 Info Starting updater: /tmp/JackettUpdate-v0.20.2297-638051944743081087/Jackett/JackettUpdater --Path "/app/Jackett" --Type "Console" --Args " --NoRestart" --KillPids "122" --NoRestart 
+2022-11-28 01:08:16.7030 Info Updater started process id: 156 
+2022-11-28 01:08:31.3257 Info Starting Jackett v0.20.2297 
+2022-11-28 01:08:32.5267 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-28 01:08:32.5281 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-28 01:08:32.5281 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-28 01:08:32.5281 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-28 01:08:32.5501 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-28 01:08:32.5520 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-28 01:08:32.5520 Info App config/log directory: /config/Jackett 
+2022-11-28 01:08:32.5520 Info Using proxy: Disabled 
+2022-11-28 01:08:32.5520 Info Using FlareSolverr: http://192.168.50.4:8191 
+2022-11-28 01:08:32.5634 Info Using HTTP Client: HttpWebClient2 
+2022-11-28 01:08:32.5861 Info Loading Native indexers ... 
+2022-11-28 01:08:32.9261 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-28 01:08:32.9335 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-28 01:08:36.9484 Info Loaded 497 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9, seedfile 
+2022-11-28 01:08:36.9484 Info Loaded 574 indexers in total 
+2022-11-28 01:08:36.9511 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-28 01:08:36.9638 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-28 01:08:36.9638 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-28 01:08:36.9638 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-28 01:08:36.9746 Info Deleting JackettUpdate temp files from /tmp/JackettUpdate-v0.20.2297-638051944743081087 
+2022-11-28 01:08:37.4598 Info Jackett startup finished in 7.524 s 
+2022-11-28 02:08:37.1045 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2022-11-28 02:08:39.9519 Info Jackett is already updated. Current version: v0.20.2297 
+2022-11-28 02:57:55.8365 Info Starting Jackett v0.20.2297 
+2022-11-28 02:58:10.3612 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-28 02:58:10.3612 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-28 02:58:10.3641 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-28 02:58:10.3777 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-28 02:58:10.7762 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-28 02:58:10.7762 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-28 02:58:10.7762 Info App config/log directory: /config/Jackett 
+2022-11-28 02:58:10.7801 Info Using proxy: Disabled 
+2022-11-28 02:58:10.7801 Info Using FlareSolverr: http://192.168.50.4:8191 
+2022-11-28 02:58:10.7903 Info Using HTTP Client: HttpWebClient2 
+2022-11-28 02:58:10.8003 Info Loading Native indexers ... 
+2022-11-28 02:58:12.0469 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-28 02:58:12.5388 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-28 02:58:20.9928 Info Loaded 497 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9, seedfile 
+2022-11-28 02:58:20.9928 Info Loaded 574 indexers in total 
+2022-11-28 02:58:20.9956 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-28 02:58:21.0080 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-28 02:58:21.0080 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-28 02:58:21.0080 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-28 02:58:23.8165 Info Jackett startup finished in 40.671 s 
+2022-11-28 03:58:21.1178 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2022-11-28 03:58:23.3457 Info Jackett is already updated. Current version: v0.20.2297 
+2022-11-28 10:16:14.8713 Error System.Exception: FlareSolverr API URL is invalid. Example: http://127.0.0.1:8191
+   at Jackett.Server.Controllers.ServerConfigurationController.UpdateConfig(ServerConfig config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ServerConfigurationController.cs:line 143
+   at lambda_method548(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 System.Exception: FlareSolverr API URL is invalid. Example: http://127.0.0.1:8191
+   at Jackett.Server.Controllers.ServerConfigurationController.UpdateConfig(ServerConfig config) in /home/vsts/work/1/s/src/Jackett.Server/Controllers/ServerConfigurationController.cs:line 143
+   at lambda_method548(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2022-11-28 10:16:46.2936 Info Restarting webhost due to configuration change 
+2022-11-28 10:16:46.2936 Info Restart of the web application host (not process) initiated 
+2022-11-28 10:16:46.3251 Info Jackett stopped 
+2022-11-28 10:16:46.4741 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-28 10:16:46.4741 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-28 10:16:46.4741 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-28 10:16:46.5366 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-28 10:16:46.5586 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-28 10:16:46.5586 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-28 10:16:46.5586 Info App config/log directory: /config/Jackett 
+2022-11-28 10:16:46.5586 Info Using proxy: Disabled 
+2022-11-28 10:16:46.5586 Info Using FlareSolverr: http://127.0.0.1:8191 
+2022-11-28 10:16:46.5749 Info Using HTTP Client: HttpWebClient2 
+2022-11-28 10:16:46.5897 Info Loading Native indexers ... 
+2022-11-28 10:16:46.6380 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-28 10:16:46.6380 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-28 10:16:50.0955 Info Loaded 497 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9, seedfile 
+2022-11-28 10:16:50.0955 Info Loaded 574 indexers in total 
+2022-11-28 10:16:50.0955 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-28 10:16:50.0955 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-28 10:16:50.0955 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-28 10:16:50.0955 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-28 10:16:50.2344 Info Jackett startup finished in 26347.094 s 
+2022-11-28 10:17:03.2096 Error Jackett.Common.IndexerException: Exception (1337x): Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at FlareSolverrSharp.Utilities.SemaphoreLocker.LockAsync[T](Func`1 worker)
+   at FlareSolverrSharp.Solvers.FlareSolverr.SendFlareSolverrRequest(HttpContent flareSolverrRequest)
+   at FlareSolverrSharp.Solvers.FlareSolverr.Solve(HttpRequestMessage request, String sessionId)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 522
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61 Jackett.Common.IndexerException: Exception (1337x): Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+ ---> FlareSolverrSharp.Exceptions.FlareSolverrException: Error connecting to FlareSolverr server: System.Net.Http.HttpRequestException: Connection refused (127.0.0.1:8191)
+ ---> System.Net.Sockets.SocketException (111): Connection refused
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+   at FlareSolverrSharp.Solvers.FlareSolverr.<>c__DisplayClass10_0.<<SendFlareSolverrRequest>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at FlareSolverrSharp.Utilities.SemaphoreLocker.LockAsync[T](Func`1 worker)
+   at FlareSolverrSharp.Solvers.FlareSolverr.SendFlareSolverrRequest(HttpContent flareSolverrRequest)
+   at FlareSolverrSharp.Solvers.FlareSolverr.Solve(HttpRequestMessage request, String sessionId)
+   at FlareSolverrSharp.ClearanceHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Jackett.Common.Utils.Clients.HttpWebClient2.Run(WebRequest webRequest) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/HttpWebClient2.cs:line 179
+   at Jackett.Common.Utils.Clients.WebClient.GetResultAsync(WebRequest request) in /home/vsts/work/1/s/src/Jackett.Common/Utils/Clients/WebClient.cs:line 186
+   at Jackett.Common.Indexers.BaseWebIndexer.RequestWithCookiesAsync(String url, String cookieOverride, RequestType method, String referer, IEnumerable`1 data, Dictionary`2 headers, String rawbody, Nullable`1 emulateBrowser) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 522
+   at Jackett.Common.Indexers.CardigannIndexer.PerformQuery(TorznabQuery query) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/CardigannIndexer.cs:line 1414
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 310
+   --- End of inner exception stack trace ---
+   at Jackett.Common.Indexers.BaseIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 322
+   at Jackett.Common.Indexers.BaseWebIndexer.ResultsForQuery(TorznabQuery query, Boolean isMetaIndexer) in /home/vsts/work/1/s/src/Jackett.Common/Indexers/BaseIndexer.cs:line 692
+   at Jackett.Common.Services.IndexerManagerService.TestIndexer(String name) in /home/vsts/work/1/s/src/Jackett.Common/Services/IndexerManagerService.cs:line 311
+   at Jackett.Server.Controllers.IndexerApiController.Test() in /home/vsts/work/1/s/src/Jackett.Server/Controllers/IndexerApiController.cs:line 132
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Jackett.Server.Middleware.CustomExceptionHandler.Invoke(HttpContext httpContext) in /home/vsts/work/1/s/src/Jackett.Server/Middleware/CustomExceptionHandler.cs:line 61
+2022-11-28 10:23:03.6369 Info Starting Jackett v0.20.2297 
+2022-11-28 10:23:09.6855 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-28 10:23:09.6855 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-28 10:23:09.6885 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-28 10:23:09.6885 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-28 10:23:09.6885 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-28 10:23:09.6885 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-28 10:23:09.6915 Info App config/log directory: /config/Jackett 
+2022-11-28 10:23:09.6915 Info Using proxy: Disabled 
+2022-11-28 10:23:09.6915 Info Using FlareSolverr: http://127.0.0.1:8191 
+2022-11-28 10:23:09.7028 Info Using HTTP Client: HttpWebClient2 
+2022-11-28 10:23:09.7129 Info Loading Native indexers ... 
+2022-11-28 10:23:10.0501 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-28 10:23:10.0761 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-28 10:23:13.7038 Info Loaded 497 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9, seedfile 
+2022-11-28 10:23:13.7038 Info Loaded 574 indexers in total 
+2022-11-28 10:23:13.7038 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-28 10:23:13.7191 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-28 10:23:13.7197 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-28 10:23:13.7197 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-28 10:23:14.7871 Info Jackett startup finished in 17.761 s 
+2022-11-28 11:23:13.8703 Info Checking for updates... Jackett variant: CoreLinuxAmdx64 
+2022-11-28 11:23:15.5395 Info Jackett is already updated. Current version: v0.20.2297 
+2022-11-29 00:38:59.3312 Info Starting Jackett v0.20.2297 
+2022-11-29 00:39:02.7723 Info Environment version: 6.0.11 (/app/Jackett/) 
+2022-11-29 00:39:02.7723 Info OS version: Unix 5.15.74.1 (64bit OS) (64bit process) 
+2022-11-29 00:39:02.7723 Info Jackett variant: CoreLinuxAmdx64 
+2022-11-29 00:39:02.7840 Info File /etc/issue: Ubuntu 20.04.4 LTS \n \l 
+2022-11-29 00:39:02.8393 Info Running in Docker: Yes (image build: v0.20.2291-ls84) 
+2022-11-29 00:39:02.8413 Info ThreadPool MaxThreads: 32767 workerThreads, 1000 completionPortThreads 
+2022-11-29 00:39:02.8413 Info App config/log directory: /config/Jackett 
+2022-11-29 00:39:02.8413 Info Using proxy: Disabled 
+2022-11-29 00:39:02.8413 Info Using FlareSolverr: http://127.0.0.1:8191 
+2022-11-29 00:39:02.8529 Info Using HTTP Client: HttpWebClient2 
+2022-11-29 00:39:02.8628 Info Loading Native indexers ... 
+2022-11-29 00:39:03.2077 Info Loaded 77 Native indexers: alpharatio, anidex, anidub, animebytes, Animedia, animetorrents, aro, avistaz, bakabt, beyond-hd-api, bithdtv, bjshare, brasiltracker, broadcasthenet, brokenstones, cgpeers, cinecalidad, cinemaz, darmowetorenty, divxtotal, dontorrent, epublibre, erai-raws, exoticaz, filelist, funfile, gazellegames, gazellegamesapi, greatposterwall, hdbitsapi, hdspace, hdtorrents, immortalseed, iptorrents, libble, lostfilm, magnetico, mejortorrent, myanonamouse, ncore, nebulance, nebulanceapi, norbits, orpheus, partis, passthepopcorn, piratethenet, pixelhd, pornolab, pretome, privatehd, rarbg, redacted, retroflix, revolutiontt, rutracker, scenehd, scenetime, secretcinema, sharewoodapi, shazbat, ShizaProject, speedapp, speedcd, subsplease, toloka, torrentbytes, torrentday, torrentheaven, torrentnetwork, torrentscsv, torrentsyndikat, tvstore, xspeeds, zonaq, animetosho, morethantv-api 
+2022-11-29 00:39:03.2415 Info Loading Cardigann indexers from: /config/cardigann/definitions/, /etc/xdg/cardigan/definitions/, /app/Jackett/Definitions 
+2022-11-29 00:39:08.5141 Info Loaded 497 Cardigann indexers: learnbits, pornoslab, finvip, krazyzone, hdfans, thevault, shanaproject, estone, divteam, ibit, nbtorrents-api, limetorrentsclone, torrentdownloads, carphunter, audiences, hdtorrentsit, sugoimusic, chilebt, cloudtorrents, rainbowtracker, torrentbd, piratbitl, bibliotik, rintor, torrentleech-pl, jme-reunit3d-api, hdarea, file-tracker, asiancinema, hdai, indietorrents, pixelcove, hhanclub, haidan, torrentlt, thefallingangels, peeratiko, torrent-pirat, torrentsectorcrew, aidoruonline, bootytape, diablotorrent, hdspain, gfxpeers, btdigg, fenyarnyek-tracker, hdc, torrentccf, theaudioscene, filelisting, hd4fans, funkytorrents, shareisland-api, torrentseeds-api, solidtorrents, ihdbits, crackingpatching, 1337x, bitded, scenerush, sktorrent-org, hdturk, unlimitz, mixtapetorrent, crt2fa, lepornoinfo, torrentgalaxy, brsociety-api, speedmasterhd, bestcore, hdchina, btmet, audiobookbay, torrentwhiz, xiteme, torrentby, learnflakes, showrss, torrenthr, hawke-uno, rudub, 1ptbar, knaben, potuk, megamixtracker, teamhd, movietorrent, rutor, crnaberza, girotorrent, genesismovement, pier720, milkie, haitang, resurrectthenet, mousebits, tokyotosho, punkshorror, racingforme, aither-api, uhdbits, hebits, torlock, pctorrent, theplace, xthor-api, trancetraffic, the-crazy-ones, parnuxi, kickasstorrents-ws, kinozal, puntotorrent, romanianmetaltorrents, hddolby, hdmonkey, torrentz2nz, insanetracker, totheglory, lastfiles, xbytesv2, torrent911, turktorrent, mteamtp, hdgalaktik, satclubbing, cinemageddon, torrentproject2, extremetorrents, dimeadozen, purovicio, booktracker, concen, torrentv, r3vwtf, yggcookie, pterclub, hdsky, firebit, elitetorrent-biz, acervos, torrentsir, badasstorrents, ccfbits, dreamtracker, yts, gay-torrentsorg, hdcztorrent, portugas-api, pussytorrents, arenabg, tjupt, keepfriends, rgfootball, muziekfabriek, nipponsei, tmghub, thesceneplace, bitbazis, pornforall, fantastiko, megapeer, limetorrents, nyaasi, btetree, newstudio, torrentdownload, torrentmasters, hdtime, woot, p2pbg, pornotorrent, exkinoray, trezzor, totallykids, seedoff, fouducinema, uniongang, torrentoyunindir, madsrevolution, proaudiotorrents, mojblink, mikan, tvroad, bithumen, houseofdevil, dariustracker, thenewfun, swarmazon-api, 3dtorrents, broadcity, bt4g, acrossthetasman, acidlounge, karagarga, extratorrent-st, teamos, putao, anthelion-api, swarmazon, concertos, leech24, zomb, hdroute, peersfm, jptv, moviesdvdr, redstartorrent, btsow, u2, datatalli, bigfangroup, torrentcore, theshow, hdhome, 2fast4you, vsthouse, fanoin, yourbittorrent, totheglorycookie, ceskeforum, vsttorrents, majomparade, datascene-api, trupornolabs, cpasbienclone, coastalcrew, animeworld-api, sharewood, discfan, torrentview, ebooks-shares, movietorrentz, internetarchive, torrentqq, carpt, cartoonchaos, mactorrentsdownload, animetracker, p2pelite, theshinning, ilcorsaroblu, miobt, rptorrents, pixelados, sktorrent, korsar, chdbits, nethd, pixelcove2fa, demonoid, zetorrents, rus-media, ourbits, siambit, pttime, theoldschool-api, ftuapps, abnormal, arabp2p, arabafenice, freshmeat, prostylex, ilcorsaronero, rapidzona, teracod, unionfansub, dxp, animelayer, pornbay, cpasbien, bithorlo, twilightszoom, tvchaosuk, pixelados-html, greekteam, frozenlayer, byrutor, cinematik, losslessclub, 52pt, bitru, spiritofrevolution, sdbits, torrentleech, torlook, acgsou, falkonvisionteam, esharenet, tasmanit, danishbytes-api, eniahd, myspleen, redbits-api, xtremebytes, torrentland-api, themixingbowl, Bittorrentfiles, crazyspirits, beyond-hd, opencd, oshenpt, traht, hdzone, mazepa, bangumi-moe, itorrent, greekdiamond, gaytorrentru, dmhy, 4thd, aussierules, linkomanija, torrentslocal, cinemamovies, btnext, huntorrent, hdatmos, mesevilag, tlfbits, acgrip, isohunt2, magico, gamestorrents, twilight, anisource, boxingtorrents, torrent-explosiv, cathoderaytube, 3changtrai, pornbits, rustorka, bitsexy, springsunday, reelflix-api, mnv, kickasstorrents-to, underversel, ehentai, lesaloon, aniRena, desitorrents-api, fantasticheaven, docspedia, moviesite, rutracker-ru, spidertk, superbits, newretro, hellashut, tapochek, jav-torrent, idope, abtorrents, sukebeinyaasi, catorrent, glodls, RockBox, kufirc, aftershock, racing4everyone-api, hd-unit3d-api, riperam, tellytorrent-api, torrentz2eu, pornotor, uniondht, crazyhd, metaltracker, bwtorrents, byrbt, pwtorrents, libranet, linuxtracker, tekno3d, bitcityreloaded, selezen, skipthetrailers, piratbit, amigosshare, lemonhd, torrentkitty, sosulki, noname-clubl, bitturk, bulltorrent, ydypt, thegeeks, mircrew, btschool, gigatorrents, classix, noname-club, oldtoonsworld, lat-team-api, 3evils, ptfiles, xwtclassics, blutopia-api, thepiratebay, yggtorrent, zelkaorg, dark-shadow, digitalcore, extremebits, mma-torrents, zamundanet, borgzelle, happyfappy, netcosmo, marinetracker, exttorrents, ptmsg, femdomcult, turkseed, xwtorrents, pignetwork, xxxadulttorrent, gay-torrents, torrenting, backups, mypornclub, 0daykiev, pthome, speedtorrentreloaded, gktorrent, xxxtor, anilibria, ztracker, bitsearch, nntt, mvgroupforum, scenepalace, torrent-turk, eztv, torrent9clone, hdu, hdforever, comicat, hdbits, theoccult, mvgroupmain, tribalmixes, sporthd, pornleech, locadora, mononokebt, snowpt, skipthecommercials-api, polishsource, newstudiol, anime-free, lst, wihd, immortuos, 0magnet, rintornet, legittorrents, torrentfunk, magicheaven, theleachzone, jpopsuki, extremlymtorrents, empornium, soulvoice, kinonavse100, bitspyder, polishtracker-api, teamctgame, proporno, theempire, empornium2fa, whiteangel, gimmepeers, world-of-tomorrow, deildu, mteamtp2fa, gtorrentpro, beitai, hdolimpo-api, bitnova, carpathians, wdt, xxxtorrents, sportscult, ptsbao, bluebirdhd, onejav, finelite, audionews, animeclipse, hdonly, fuzer, generationfree-api, sexypics, kinorun, torrent9, seedfile 
+2022-11-29 00:39:08.5141 Info Loaded 574 indexers in total 
+2022-11-29 00:39:08.5171 Info Adding aggregate indexer ('all' indexer) ... 
+2022-11-29 00:39:08.5296 Info Adding filter indexer ('type:public' indexer) ... 
+2022-11-29 00:39:08.5296 Info Adding filter indexer ('type:private' indexer) ... 
+2022-11-29 00:39:08.5296 Info Adding filter indexer ('type:semi-public' indexer) ... 
+2022-11-29 00:39:10.1422 Info Jackett startup finished in 13.927 s 

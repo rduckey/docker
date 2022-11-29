@@ -1,0 +1,11 @@
+---
+services:
+  service_name: #replace with name of service
+    image: #image to pull
+    container_name: #name for container in docker
+    enviroment:
+    volumes:
+      - #location-on-host:location-in_container
+    ports:
+      - #host-port:container-port
+    restart:  #options (never,unless_stopped,always)

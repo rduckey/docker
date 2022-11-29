@@ -1,0 +1,61 @@
+---
+version: "2.1"
+services:
+  jackett: #Preform RSS loopup 
+    image:
+      - lscr.io/linuxserver/jackett:latest
+    container_name:
+      - jackett
+    depends_on:
+      - ghcr.io/flaresolverr/flaresolverr:latest
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+      - AUTO_UPDATE=true #optional
+#     - RUN_OPTS=<run options here> #optional
+    volumes:
+      - ./jackett.config:/config
+      - ./jackett.downloads:/downloads
+    ports:
+      - 9117:9117
+    restart:
+      -  unless-stopped
+
+  flaresolverr: #Solves Capcha
+    # DockerHub mirror flaresolverr/flaresolverr:latest
+    image:
+      - ghcr.io/flaresolverr/flaresolverr:latest
+    container_name:
+      - flaresolverr
+    environment:
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+      - LOG_HTML=${LOG_HTML:-false}
+      - CAPTCHA_SOLVER=${CAPTCHA_SOLVER:-none}
+      - TZ=America/New_York
+    ports:
+      - "${PORT:-8191}:8191"
+    restart:
+      - unless-stopped
+
+  qbittorrent: #torrent engine
+    image:
+      - lscr.io/linuxserver/qbittorrent:latest
+    container_name:
+      - qbittorrent
+    depends_on:
+      - lscr.io/linuxserver/jackett:latest
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/New_York
+      - WEBUI_PORT=8080
+    volumes:
+      - ./qbittorrent.config:/config
+      - ./qbittorrent.config:/downloads
+    ports:
+      - 8080:8080
+      - 6881:6881
+      - 6881:6881/udp
+    restart:
+      - unless-stopped
