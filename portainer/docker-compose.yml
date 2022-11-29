@@ -4,6 +4,8 @@ services:
   portainer:
     image: portainer/portainer-ee:latest
     container_name: portainer
+    cap_add:
+      - ALL
     volumes:
       - ./portainer_data:/data
       - /var/run/docker.sock:/var/run/docker.sock
@@ -21,3 +23,6 @@ services:
     ports:
       - 9001:9001
     restart: always
+
+volumes:
+  portainer_data:
