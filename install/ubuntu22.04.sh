@@ -42,4 +42,4 @@ if [ "$(docker-compose --version)" ] ; then
 else
     echo "Docker-Compose has failed to install!"
 fi
-
+mkdir $HOME/compose
