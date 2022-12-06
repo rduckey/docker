@@ -1,22 +1,6 @@
 ---
 version: "3"
 services:
-  openvpn-client: #Provide secure connection for torrenting
-    image: "ghcr.io/wfg/openvpn-client"
-    container_name: "openvpn-client"
-    cap_add:
-      - NET_ADMIN
-    devices:
-      - /dev/net/tun
-    volumes:
-      - ./openvpn.config:/data/vpn
-    ports:
-      - 1197:1197
-      - 8080:8080
-      - 6881:6881
-      - 6881:6881/udp
-    restart: unless-stopped
-
   jackett: #Preform RSS loopup 
     image: "lscr.io/linuxserver/jackett:latest"
     container_name: "jackett"
@@ -43,19 +27,4 @@ services:
       - TZ=America/New_York
     ports:
       - "${PORT:-8191}:8191"
-    restart: unless-stopped
-
-  qbittorrent: #torrent engine
-    image: "lscr.io/linuxserver/qbittorrent:latest"
-    container_name: "qbittorrent"
-    network_mode: "service:openvpn-client"
-    environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=America/New_York
-      - WEBUI_PORT=8080
-    volumes:
-      - ./qbittorrent.config:/config
-      - ./qbittorrent.config:/downloads
-      - ./qbittorrent.config/themes:/themes
     restart: unless-stopped
