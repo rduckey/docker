@@ -11,7 +11,7 @@ if [ $? != 0 ]; then
     sudo chmod a+r /etc/apt/keyrings/docker.gpg
     sudo apt-get update
 fi
-sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 if [ "$USER" != "root" ]; then
     sudo usermod -aG docker "${USER}"
 fi
@@ -20,7 +20,7 @@ declare -a paths=( "/usr/local/lib/docker/" "/usr/local/libexec/docker" "/usr/li
 path="missing"
 for i in "${paths[@]}" ;
 do
-    if -f "${paths[@]}"; then
+    if [ -f "${paths[@]}" ]; then
         path="$i"
     fi
 done
