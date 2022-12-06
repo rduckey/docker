@@ -1,15 +1,15 @@
 ---
-version: "3"
+version: "2.1"
 services:
-  jackett: #Preform RSS loopup 
-    image: "lscr.io/linuxserver/jackett:latest"
-    container_name: "jackett"
+  jackett:
+    image: lscr.io/linuxserver/jackett:latest
+    container_name: jackett
     environment:
       - PUID=1000
       - PGID=1000
       - TZ=America/New_York
       - AUTO_UPDATE=true #optional
-#     - RUN_OPTS=<run options here> #optional
+      - RUN_OPTS=<run options here> #optional
     volumes:
       - ./jackett.config:/config
       - ./jackett.downloads:/downloads
