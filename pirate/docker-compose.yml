@@ -1,9 +1,25 @@
 ---
 version: "2.1"
 services:
+  openvpn:
+    image: dceschmidt/openvpn-client
+    networks:
+      - openvpn
+    enviroment:
+      - OPENVPN_PROVIDER=PIA
+      - OPENVPN_CONFIG=CA Toronto
+      - OPENVPN_USERNAME=
+      - OPENVPN_PASSWORD=
+      - LOCAL_NETWORK=192.168.50.0/24
+    ports:
+      - 1022:22
+
+
   jackett:
     image: lscr.io/linuxserver/jackett:latest
     container_name: jackett
+    network:
+      - vpn
     environment:
       - PUID=1000
       - PGID=1000
@@ -20,6 +36,8 @@ services:
   flaresolverr: #Solves Capcha
     image: "ghcr.io/flaresolverr/flaresolverr:latest"
     container_name: "flaresolverr"
+    network:
+      - vpn
     environment:
       - LOG_LEVEL=${LOG_LEVEL:-info}
       - LOG_HTML=${LOG_HTML:-false}
@@ -28,3 +46,7 @@ services:
     ports:
       - "${PORT:-8191}:8191"
     restart: unless-stopped
+
+networks:
+  vpn:
+    driver: bridge
